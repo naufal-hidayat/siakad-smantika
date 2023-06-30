@@ -15,5 +15,5 @@
 4. Data Alumni
 5. Data Staff TU
 
-## Thanks To
+## Thanks To Pengembang
 [Naufal Hidayat](https://wa.me/6281394713563)
